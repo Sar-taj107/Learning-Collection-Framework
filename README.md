@@ -8,7 +8,7 @@ Java-Collection-Framework" is GitHub repository for a comprehensive and beginner
 ## Hierarchy of Collection Framework in Java 🚀
 <p align="center">
 <img src="./assets/image/collection-framework-her.png"><br>
-<a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
+<a href="https://javaconceptoftheday.com/collection-framework-class-hierarchy/">Hierarchy of Collection Framework in Java </a>
 </p>
 
 ## Method summary 🚀
