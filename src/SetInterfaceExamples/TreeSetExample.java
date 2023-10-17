@@ -4,7 +4,7 @@ import java.util.*;
 public class TreeSetExample {
     public static void main(String[] args) {
         
-        TreeSet<Integer> st = new TreeSet<>();
+        TreeSet<Integer> st = new TreeSet<>(); //sotred order preserve
         st.add(1);
         st.add(2);
         st.add(3);
@@ -14,3 +14,9 @@ public class TreeSetExample {
         System.out.println(st);
     }
 }
+
+/*
+ 
+[1, 2, 3, 15, 36, 48]
+
+ */

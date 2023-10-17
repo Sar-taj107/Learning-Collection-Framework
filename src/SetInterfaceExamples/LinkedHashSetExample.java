@@ -15,3 +15,9 @@ public class LinkedHashSetExample {
         System.out.println(st); //1,2,3,48,30,24 here order of insertion is preserved
     }
 }
+
+/*
+ 
+[1, 2, 3, 48, 30, 24]
+
+ */
