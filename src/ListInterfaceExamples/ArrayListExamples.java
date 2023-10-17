@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 //or 
 import java.util.*;
-public class ListInterfaceExamples {
+public class ArrayListExamples {
 
-    static void ArrayListExamples(){
+    static void ArrayListExp(){
         ArrayList<Integer> l = new ArrayList<>();
         l.add(1);
         l.add(2);
@@ -19,7 +19,7 @@ public class ListInterfaceExamples {
         
     }
     public static void main(String[] args) {
-        ArrayListExamples();
+        ArrayListExp();
     }
 }
 
